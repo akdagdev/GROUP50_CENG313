@@ -7,7 +7,7 @@ CENG313 Introduction to Data Science (Gazi University, Fall 2026-27). Kaggle pro
 | Name | Student ID | GitHub |
 |---|---|---|
 | Abdullah Akdağ | 23118080052 | [@akdagdev](https://github.com/akdagdev) |
-| Cemal Berkay Bağrıaçık | 23118080042 | TODO |
+| Cemal Berkay Bağrıaçık | 23118080042 | (https://github.com/cemoal) |
 
 ## Competition
 
