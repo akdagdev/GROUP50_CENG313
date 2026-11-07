@@ -221,3 +221,5 @@ __marimo__/
 
 # competition data
 data/
+
+.DS_Store
